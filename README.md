@@ -37,8 +37,9 @@ All notebooks are meant to be exploratory and illustrative — further scripts o
 
 The datasets used in this work are **private and not shared in this repository** due to licensing restrictions:
 
-- **Classification dataset**: Institutional data with restricted access.
+- **Classification dataset**: Data with restricted access.
 - **Segmentation dataset (MSD)**: Derived from the [Medical Segmentation Decathlon](http://medicaldecathlon.com/), but processed variants used here are not publicly released.
+- **MICCAI 2023 classification & segmentation data**: Private datasets.
 - **Simulations** are fully reproducible.
 
 Please contact the authors for data-sharing inquiries where permissible.
